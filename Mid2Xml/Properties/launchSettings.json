@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "Mid2Xml": {
+      "commandName": "Project",
+      "commandLineArgs": "\"C:\\Users\\joshu\\Music\\Midi\\Rick_Astley_-_Never_Gonna_Give_You_Up.mid\""
+    },
+    "Xml2Mid": {
+      "commandName": "Project",
+      "commandLineArgs": "\"Rick_Astley_-_Never_Gonna_Give_You_Up.xml\""
+    }
+  }
+}
